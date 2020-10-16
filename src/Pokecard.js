@@ -1,6 +1,6 @@
-import React, { component } from "react";
+import React from "react";
 
-class Pokecard extends Component {
+class Pokecard extends React.Component {
   render() {
     return <h1> Pokecard </h1>;
   }
